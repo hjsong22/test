@@ -12,3 +12,11 @@
     "name": "typicode"
   }
 }
+
+{
+  "setCode":"890222A2SI-01",
+  "setDefect": [
+    { "pcsXseqno": 1, "pcsYseqno": 1, "isDefect": 1 },
+    { "pcsXseqno": 2, "pcsYseqno": 1, "isDefect": 1 }
+  ]
+}
