@@ -2,18 +2,49 @@
   "profile": {
     "name": "typicode"
   },
-  "setList" : {
-    "setCode": "890222A2SI-01",
-    "setDefect": [
+  "data": {
+    "lotCode": "200339032-0-3-1",
+    "partRev": "268992RS12A0",
+    "pnlCount": 3,
+    "setPerPnl": 4,
+    "pcsPerSet": 6,
+    "setXqty": 2,
+    "setYqty": 2,
+    "pcsXqty": 3,
+    "pcsYqty": 2,
+    "lotDetail": [
       {
-        "pcsXseqno": 1,
-        "pcsYseqno": 1,
-        "isDefect": 1
-      },
-      {
-        "pcsXseqno": 2,
-        "pcsYseqno": 1,
-        "isDefect": 1
+        "pnlCode": "39992US-3012",
+        "pnlSeqNo": 12,
+        "pnlDetail": [
+          {
+            "setCode": "890222A2SI-01",
+            "setSeqNo": 1,
+            "setDefect": [
+              {
+                "pcsXseqno": 1,
+                "pcsYseqno": 1,
+                "isDefect": 1
+              },
+              {
+                "pcsXseqno": 2,
+                "pcsYseqno": 1,
+                "isDefect": 1
+              }
+            ]
+          },
+          {
+            "setCode": "890222A2SI-02",
+            "setSeqNo": 2,
+            "setDefect": [
+              {
+                "pcsXseqno": 1,
+                "pcsYseqno": 2,
+                "isDefect": 1
+              }
+            ]
+          }
+        ]
       }
     ]
   }
