@@ -1,4 +1,8 @@
 {
-  "name": "typicode",
-  "setCode": "890222A2SI-01"
+  "profile": {
+    "name": "typicode"
+  },
+  "setList" : {
+    "setCode": "890222A2SI-01"
+  }
 }
